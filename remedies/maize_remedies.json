@@ -1,0 +1,23 @@
+{
+  "Blight": [
+    "Use resistant maize varieties.",
+    "Remove infected plant debris to reduce pathogen load.",
+    "Improve airflow by proper spacing.",
+    "Apply fungicides during early symptom onset."
+  ],
+  "Common_Rust": [
+    "Plant rust-resistant hybrids.",
+    "Rotate crops to reduce spore buildup.",
+    "Use foliar fungicides if severe infection is observed."
+  ],
+  "Gray_Leaf_Spot": [
+    "Use certified resistant seeds.",
+    "Improve field airflow to reduce humidity on leaf surfaces.",
+    "Apply fungicides when environmental conditions favor disease."
+  ],
+  "Healthy": [
+    "Maintain proper spacing and watering.",
+    "Monitor regularly for early signs of disease.",
+    "Ensure balanced nutrition to keep plants strong."
+  ]
+}

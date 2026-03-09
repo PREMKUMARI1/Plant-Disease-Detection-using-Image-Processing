@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crop Disease Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background: #f7f7f7;
+        }
+        .card {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            width: 450px;
+            margin: auto;
+            box-shadow: 0 0 10px #ccc;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background: #eef;
+            border-radius: 8px;
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>Crop Disease Detection</h2>
+
+    <form action="/predict" method="POST" enctype="multipart/form-data">
+        <label>Select Crop:</label><br>
+        <select name="crop" required>
+            <option value="potato">Potato</option>
+            <option value="chilli">Chilli</option>
+            <option value="maize">Maize</option>
+        </select>
+        <br><br>
+
+        <input type="file" name="image" required><br><br>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if disease %}
+    <div class="result">
+        <h3>Results</h3>
+        <p><strong>Disease:</strong> {{ disease }}</p>
+        <p><strong>Confidence:</strong> {{ confidence }}%</p>
+        <p><strong>Severity:</strong> {{ severity }}</p>
+
+        <h4>Recommended Actions:</h4>
+        <ul>
+            {% for r in remedies %}
+                <li>{{ r }}</li>
+            {% endfor %}
+        </ul>
+
+        {% if image_path %}
+            <img src="{{ image_path }}" alt="Uploaded Image">
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
+

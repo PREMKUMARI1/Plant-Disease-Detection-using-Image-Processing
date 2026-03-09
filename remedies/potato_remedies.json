@@ -1,0 +1,19 @@
+{
+  "Early_Blight": [
+    "Ensure good plant nutrition and healthy growth to reduce susceptibility. :contentReference[oaicite:0]{index=0}",
+    "Avoid overhead irrigation, maintain good airflow between plants to keep foliage dry. :contentReference[oaicite:1]{index=1}",
+    "Use crop rotation and remove/residue of infected plants to reduce inoculum carry-over. :contentReference[oaicite:2]{index=2}",
+    "Apply foliar fungicides early if disease onset is observed (e.g., protectant fungicides at 7-10 day intervals). :contentReference[oaicite:3]{index=3}"
+  ],
+  "Healthy": [
+    "Maintain balanced fertilisation and watering to keep plants vigorous.",
+    "Monitor regularly for early signs of disease and act promptly.",
+    "Use clean seed tubers and ensure fields have good drainage."
+  ],
+  "Late_Blight": [
+    "Use certified disease-free seed tubers and eliminate volunteer potato plants and cull piles. :contentReference[oaicite:4]{index=4}",
+    "Avoid fields that remain wet, avoid overhead irrigation especially at night, ensure good air circulation. :contentReference[oaicite:5]{index=5}",
+    "Apply foliar fungicides proactively (before and after symptom onset) and monitor weather/forecast risk. :contentReference[oaicite:6]{index=6}",
+    "Destruct infected vines 2-3 weeks before harvest to reduce tuber infection, and practise wide row spacing & hilling/earthing up. :contentReference[oaicite:7]{index=7}"
+  ]
+}

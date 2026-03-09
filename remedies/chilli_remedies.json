@@ -1,0 +1,66 @@
+{
+  "Chilli__Anthracnos": [
+    "Remove and destroy infected fruits and plant debris to prevent disease spread.",
+    "Improve field sanitation and avoid overhead irrigation to reduce moisture on leaves.",
+    "Ensure proper plant spacing for airflow and reduced humidity.",
+    "Use disease-free, certified seeds and practice regular field monitoring.",
+    "Rotate crops and avoid planting chilli repeatedly in the same field."
+  ],
+
+  "Chilli__Damping_Off": [
+    "Use well-drained, sterile nursery soil to prevent early infection.",
+    "Avoid excessive watering and maintain proper nursery ventilation.",
+    "Reduce overcrowding in seedling trays to minimize humidity buildup.",
+    "Solarize nursery soil before sowing to reduce pathogen load.",
+    "Remove weak or infected seedlings immediately."
+  ],
+
+  "Chilli___healthy": [
+    "Maintain good field hygiene and regularly inspect plants to keep them disease-free.",
+    "Ensure proper spacing, irrigation, and balanced nutrition to support healthy growth.",
+    "Use clean tools and disease-free transplanting material.",
+    "Monitor environmental conditions and protect plants during high humidity periods.",
+    "Follow crop rotation and avoid continuous chilli cultivation in the same plot."
+  ],
+
+  "Chilli__Leaf_Curl_Virus": [
+    "Remove infected plants early to reduce virus spread.",
+    "Manage whitefly population through field hygiene and reflective mulches.",
+    "Use virus-free seedlings and resistant varieties if available.",
+    "Avoid planting near virus-infected fields and maintain good weed control.",
+    "Use physical barriers like insect nets in nurseries."
+  ],
+
+  "Chilli__Leaf_Spot": [
+    "Remove infected leaves and maintain sanitation around plants.",
+    "Ensure proper spacing for good air circulation.",
+    "Avoid waterlogging and overhead irrigation to reduce leaf wetness.",
+    "Use disease-free seeds and rotate crops with non-host plants.",
+    "Monitor fields regularly and remove debris after harvest."
+  ],
+
+  "Chilli__Veinal_Mottle_Virus": [
+    "Use certified virus-free seeds to prevent early infection.",
+    "Remove infected plants promptly to reduce disease spread.",
+    "Control insect vectors using safe cultural practices and field hygiene.",
+    "Maintain weed-free borders as many weeds act as virus reservoirs.",
+    "Avoid using transplants from unknown or infected fields."
+  ],
+
+  "Chilli __Whitefly": [
+    "Use yellow sticky traps to monitor and reduce whitefly populations.",
+    "Remove weeds and plant residues that harbor insects.",
+    "Promote good airflow by maintaining appropriate plant spacing.",
+    "Protect nurseries with insect-proof netting to prevent early infestation.",
+    "Rotate crops and avoid continuous chilli cultivation."
+  ],
+
+  "Chilli __Yellowish": [
+    "Check for nutrient deficiencies and maintain balanced soil fertility.",
+    "Improve soil drainage and avoid prolonged waterlogging.",
+    "Remove damaged leaves and maintain proper field sanitation.",
+    "Inspect for pests or stress factors that may cause yellowing.",
+    "Ensure plants receive adequate sunlight and avoid overcrowding."
+  ]
+}
+
